@@ -1,4 +1,4 @@
-# bodybuilder.js - generate massive amounts of fake data in the browser and node.js
+# bodybuilder.js - A faker.js with steroids to generate massive amounts of fake data in the browser and node.js
 
 [![Build Status](https://travis-ci.org/Marak/faker.js.svg?branch=master)](https://travis-ci.org/Marak/faker.js) [![Coverage Status](https://coveralls.io/repos/github/Marak/faker.js/badge.svg?branch=master)](https://coveralls.io/github/Marak/faker.js?branch=master)
 
